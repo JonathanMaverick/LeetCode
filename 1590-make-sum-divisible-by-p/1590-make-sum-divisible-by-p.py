@@ -1,23 +1,21 @@
 class Solution:
     def minSubarray(self, nums: List[int], p: int) -> int:
         n = len(nums)
-        prefixSum = [0 for i in range(n + 1)]
-        min = n+1
+        sums = sum(nums)
+        remainder = sums % p
 
-        if sum(nums)%p == 0:
-            return 0
+        if sums % p == 0 : 
+            return remainder
 
+        pos = {0: -1}
+        sumP, Len = 0, n
 
-        for i in range (0, n) : 
-            prefixSum[i] = nums[i]
-            for j in range(0,n):
-                if i == j:continue
-                prefixSum[i] = prefixSum[i] + nums[j]
-                print(f"prefix sum: {prefixSum[i]}, {n-j-1}")    
-                if prefixSum[i] % p == 0:
-                    if min > n-j-1:
-                        min = n-j-1
-        if min == n + 1:
-            return -1   
-        else:
-            return min
+        for i, x in enumerate(nums):
+            sumP = (sumP + x) % p
+            y = (sumP-remainder+p) % p
+            print(y)
+
+            if y in pos :
+                Len = min(Len, i - pos[y])
+            pos[sumP]=i
+        return -1 if Len == n else Len
