@@ -3,7 +3,7 @@ class Solution:
         vowels = {'a', 'i', 'u', 'e', 'o'}
 
         j, k =  0, sw 
-        temp = sum(1 for ch in s[:sw] if ch in vowels)
+        temp = sum(ch in vowels for ch in s[:sw])
         res = temp
         if res == sw:
             return sw
