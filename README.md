@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JonathanMaverick/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1023-time-based-key-value-store](https://github.com/JonathanMaverick/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JonathanMaverick/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1023-time-based-key-value-store](https://github.com/JonathanMaverick/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanMaverick/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JonathanMaverick/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
