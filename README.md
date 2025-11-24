@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JonathanMaverick/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonathanMaverick/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JonathanMaverick/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
 ## Stack
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JonathanMaverick/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JonathanMaverick/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
