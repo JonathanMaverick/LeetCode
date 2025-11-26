@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonathanMaverick/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0143-reorder-list) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
@@ -84,14 +85,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JonathanMaverick/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/JonathanMaverick/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JonathanMaverick/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JonathanMaverick/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
