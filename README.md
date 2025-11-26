@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonathanMaverick/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/JonathanMaverick/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/JonathanMaverick/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/JonathanMaverick/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/JonathanMaverick/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## String
@@ -82,10 +83,15 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JonathanMaverick/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/JonathanMaverick/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JonathanMaverick/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/JonathanMaverick/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
