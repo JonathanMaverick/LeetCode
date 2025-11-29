@@ -8,27 +8,30 @@ class Solution:
         dummy = ListNode(0, head)
         groupPrev = dummy
         while True:
-            kth = self.getKth(groupPrev, k)
+            kth = self.findTheKth(groupPrev, k)
             if kth is None:
                 break
             groupNext = kth.next
 
             prev, curr = kth.next, groupPrev.next
+
             while curr != groupNext:
                 tmp = curr.next
                 curr.next = prev
                 prev = curr
-                curr = tmp 
+                curr = tmp
             
-            tmp = groupPrev.next
+            temp = groupPrev.next
             groupPrev.next = kth
-            groupPrev = tmp
-        return dummy.next
+            groupPrev = temp
 
-    def getKth(self, curr, k):
+        return dummy.next
+            
+
+    def findTheKth(self, curr, k):
         while curr and k > 0:
             curr = curr.next
             k -= 1
+        
         return curr
         
-
