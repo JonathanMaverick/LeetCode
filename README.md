@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonathanMaverick/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/JonathanMaverick/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/JonathanMaverick/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JonathanMaverick/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JonathanMaverick/LeetCode/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Trie
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JonathanMaverick/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0090-subsets-ii) |
