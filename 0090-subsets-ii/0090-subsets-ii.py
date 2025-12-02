@@ -6,13 +6,13 @@ class Solution:
 
         def dfs(i, curr):
             if i >= len(nums):
-                if curr not in res:
-                    res.append(curr.copy())
+                res.append(curr.copy())
                 return
 
             curr.append(nums[i])
             dfs(i + 1, curr)
             curr.pop()
+            while i + 1 < len(nums) and nums[i] == nums[i + 1]: i += 1
             dfs(i + 1, curr)
         dfs(0, [])
         return res
