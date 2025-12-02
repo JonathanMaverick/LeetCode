@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanMaverick/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/JonathanMaverick/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonathanMaverick/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonathanMaverick/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JonathanMaverick/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/JonathanMaverick/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JonathanMaverick/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
