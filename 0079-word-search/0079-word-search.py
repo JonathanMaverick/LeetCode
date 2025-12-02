@@ -7,11 +7,14 @@ class Solution:
             if i == len(word):
                 return True
             
-            if min(r, c) < 0 or r >= ROWS or c >= COLS or word[i] != board[r][c] or (r,c) in stack:
+            if min(r, c) < 0 or r >= ROWS or c >= COLS or word[i] != board[r][c]:
                 return False
             
+            temp = board[r][c]
+            board[r][c] = "#"
             stack.append((r,c))
             res = (dfs(r + 1, c, i + 1) or dfs(r - 1, c, i + 1) or dfs(r, c + 1, i + 1) or dfs(r, c - 1, i + 1))
+            board[r][c] = temp
             stack.remove((r,c))
             return res
 
