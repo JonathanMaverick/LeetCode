@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0022-generate-parentheses](https://github.com/JonathanMaverick/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/JonathanMaverick/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/JonathanMaverick/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JonathanMaverick/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0022-generate-parentheses](https://github.com/JonathanMaverick/LeetCode/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/JonathanMaverick/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
@@ -235,4 +237,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/JonathanMaverick/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
