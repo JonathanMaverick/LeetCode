@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0039-combination-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/JonathanMaverick/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonathanMaverick/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonathanMaverick/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JonathanMaverick/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonathanMaverick/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/JonathanMaverick/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/JonathanMaverick/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JonathanMaverick/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -229,5 +233,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0022-generate-parentheses](https://github.com/JonathanMaverick/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
