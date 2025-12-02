@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanMaverick/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/JonathanMaverick/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonathanMaverick/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -221,5 +222,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
