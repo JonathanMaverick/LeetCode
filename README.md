@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanMaverick/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/JonathanMaverick/LeetCode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/JonathanMaverick/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0079-word-search) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0022-generate-parentheses](https://github.com/JonathanMaverick/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/JonathanMaverick/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/JonathanMaverick/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0090-subsets-ii) |
