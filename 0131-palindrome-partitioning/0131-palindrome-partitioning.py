@@ -2,14 +2,13 @@ class Solution:
     def partition(self, s: str) -> List[List[str]]:
         res = []
         part = []
-
         def dfs(i, j):
             if j >= len(s):
                 if i == j:
                     res.append(part.copy())
                 return
             
-            if self.isPali(s, i, j):
+            if self.isPali(i, j, s):
                 part.append(s[i:j + 1])
                 dfs(j + 1, j + 1)
                 part.pop()
@@ -17,11 +16,14 @@ class Solution:
             dfs(i, j + 1)
         dfs(0, 0)
         return res
-        
-    def isPali(self, s, i, j):
-        while i < j:
-            if s[i] != s[j]:
+            
+    
+    def isPali(self, l, r, s):
+        while l < r:
+            if not s[l] == s[r]:
                 return False
-            i += 1
-            j -= 1
+            l += 1
+            r -= 1
         return True
+                
+        
