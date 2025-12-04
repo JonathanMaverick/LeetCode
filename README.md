@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/JonathanMaverick/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
+| [1127-last-stone-weight](https://github.com/JonathanMaverick/LeetCode/tree/master/1127-last-stone-weight) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JonathanMaverick/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/JonathanMaverick/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1127-last-stone-weight](https://github.com/JonathanMaverick/LeetCode/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
