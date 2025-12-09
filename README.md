@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0212-word-search-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/JonathanMaverick/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/JonathanMaverick/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Stack
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0146-lru-cache](https://github.com/JonathanMaverick/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/JonathanMaverick/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/JonathanMaverick/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JonathanMaverick/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/JonathanMaverick/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JonathanMaverick/LeetCode/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
@@ -266,4 +270,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
