@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/JonathanMaverick/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JonathanMaverick/LeetCode/tree/master/1127-last-stone-weight) |
 ## Stack
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanMaverick/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/JonathanMaverick/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonathanMaverick/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JonathanMaverick/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/JonathanMaverick/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JonathanMaverick/LeetCode/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JonathanMaverick/LeetCode/tree/master/0002-add-two-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,4 +258,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0090-subsets-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/JonathanMaverick/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0212-word-search-ii) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
