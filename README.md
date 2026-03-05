@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonathanMaverick/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JonathanMaverick/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0212-word-search-ii) |
+| [0217-contains-duplicate](https://github.com/JonathanMaverick/LeetCode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/JonathanMaverick/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/JonathanMaverick/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/JonathanMaverick/LeetCode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/JonathanMaverick/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/JonathanMaverick/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/JonathanMaverick/LeetCode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/JonathanMaverick/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/JonathanMaverick/LeetCode/tree/master/1023-time-based-key-value-store) |
