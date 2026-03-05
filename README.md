@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanMaverick/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/JonathanMaverick/LeetCode/tree/master/0051-n-queens) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/JonathanMaverick/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/JonathanMaverick/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/JonathanMaverick/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/JonathanMaverick/LeetCode/tree/master/0141-linked-list-cycle) |
