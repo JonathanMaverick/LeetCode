@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonathanMaverick/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/JonathanMaverick/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JonathanMaverick/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JonathanMaverick/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JonathanMaverick/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/JonathanMaverick/LeetCode/tree/master/0125-valid-palindrome) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JonathanMaverick/LeetCode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
