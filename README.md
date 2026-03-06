@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonathanMaverick/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/JonathanMaverick/LeetCode/tree/master/0155-min-stack) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/JonathanMaverick/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/JonathanMaverick/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JonathanMaverick/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonathanMaverick/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
