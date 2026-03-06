@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/JonathanMaverick/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/JonathanMaverick/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/JonathanMaverick/LeetCode/tree/master/0621-task-scheduler) |
+| [0739-daily-temperatures](https://github.com/JonathanMaverick/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/JonathanMaverick/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/JonathanMaverick/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0084-largest-rectangle-in-histogram](https://github.com/JonathanMaverick/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/JonathanMaverick/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/JonathanMaverick/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/JonathanMaverick/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonathanMaverick/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/JonathanMaverick/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/JonathanMaverick/LeetCode/tree/master/0883-car-fleet) |
 ## Binary Search
 |  |
